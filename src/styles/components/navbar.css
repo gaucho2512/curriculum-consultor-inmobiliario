@@ -1,0 +1,27 @@
+.navbar-items {
+    display: flex;
+}
+
+.navbar-items ul {
+    margin: 0;
+}
+.navbar-items ul li a {
+    margin-right: 20px;
+    color: var( --colorSecondary);
+    font-size: 13px;
+    text-decoration: none;
+    -webkit-transition: all 1s;
+}
+
+.navbar-items ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.navbar-items ul li a:hover {
+    color: var( --btnPrimary);
+}
+
+.li-contacto {
+    margin-right: 0 !important;
+}

@@ -1,0 +1,196 @@
+.imagen-contenedora-fondo {
+
+}
+
+.contenedor-formulario {
+    background: var(--colorPrimary);
+    height: 648px;
+    width: 100%;
+    margin: 0;
+}
+
+.column-formulario-1 {
+    height: 648px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.titulo-formulario {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    font-size: 30px;
+    color: var(--colorSecondary);
+    margin-bottom: 25px;
+}
+
+.titulo-formulario h2 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.column-formulario-2 {
+    height: 648px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0;
+}
+
+
+.titulo-cafe h1 {
+    color: var(--colorSecondary);
+    font-size: 55px;
+    font-weight: 600;
+    padding: 20px;
+    padding: 40px 0 40px 20px;
+}
+
+.celular {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-top: 1px solid var(--colorSecondary);
+    border-bottom: 1px solid var(--colorSecondary);
+    height: 50px;
+}
+
+.celular h4 {
+    color: var(--colorSecondary);
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+.celular h4 a {
+    color: var(--colorSecondary);
+    font-size: 18px;
+    margin-bottom: 0;
+    font-weight: 300;
+    text-decoration: none;
+    -webkit-transition: all 1s;
+}
+
+.celular h4 a:hover , .tel-fijo h4 a:hover , .email h4 a:hover {
+    color: var(--btnPrimary);
+}
+
+.tel-fijo {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid var(--colorSecondary);
+    height: 50px;
+   
+}
+
+.tel-fijo h4 {
+    color: var(--colorSecondary);
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+.tel-fijo h4 a {
+    color: var(--colorSecondary);
+    font-size: 18px;
+    margin-bottom: 0;
+    font-weight: 300;
+    text-decoration: none;
+    -webkit-transition: all 1s;
+}
+
+.email {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid var(--colorSecondary);
+    height: 50px;
+   
+}
+
+.email h4 {
+    color: var(--colorSecondary);
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+.email h4 a {
+    color: var(--colorSecondary);
+    font-size: 18px;
+    margin-bottom: 0;
+    font-weight: 300;
+    text-decoration: none;
+    -webkit-transition: all 1s;
+}
+
+.linea-fija-blanca {
+    width: 100%;
+    height: 0.1px;
+    background-color: var(--colorSecondary);
+    position: relative;
+}
+
+.linea-fija-blanca-left {
+    width: 0.1px;
+    height: 648px;
+    background-color: var(--colorSecondary);
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.linea-fija-blanca-center {
+    width: 0.1px;
+    height: 648px;
+    background-color: var(--colorSecondary);
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.contacto-left {
+   display: flex;
+   justify-content: space-around;
+   align-items: flex-start;
+   flex-direction: column;
+   height: 630px;
+   padding-left: 40px;
+}
+
+.contacto-left h2 {
+    color: var(--colorSecondary);
+    position: relative;
+    top: -66px;
+}
+
+.contacto-left h2 span {
+    color: var(--btnPrimary);
+}
+
+.contacto-left h4 {
+    width: 105px;
+    padding: 0;
+    margin: 0;
+    color: var(--colorSecondary);
+    font-size: 13px;
+    position: relative;
+    top: 48px;
+}
+
+.contacto-left h4 a {
+    color: var(--colorSecondary);
+}
+
+.contacto-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 630px;
+}

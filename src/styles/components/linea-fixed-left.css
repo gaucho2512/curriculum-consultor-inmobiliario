@@ -1,0 +1,8 @@
+.linea-fixed-left {
+    width: 0.1px;
+    height: 2100px;
+    background-color: var(--colorSecondary);
+    position: relative;
+    padding: 0;
+    margin: 0;
+}

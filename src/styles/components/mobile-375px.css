@@ -1,0 +1,303 @@
+@media (max-width: 413.98px) {
+    .contenedor-headers {
+        display: none;
+    }
+
+    .contenedor-presentacion {
+        height: 310px;
+    }
+
+    .column-presentacion-1 {
+        display: none;
+    }
+
+    .column-presentacion-4 {
+        display: none;
+    }
+
+    .column-presentacion-2 {
+        height: auto;
+    }
+
+    .column-presentacion-2 h1 {
+        font-size: 30px;
+    }
+
+    .column-presentacion-2 p {
+        width: auto;
+        margin-bottom: 40px;
+    }
+
+    .column-presentacion-3 {
+        display: none;
+    }
+  
+    .contenedor-foto-mobile {
+        display: flex !important;
+        justify-content: center;
+    }
+
+    .foto-mobile {
+        width: 100%;
+    }
+
+    .column-menu-datos-1 {
+        display: none;
+    }
+
+    .column-menu-datos-3 {
+        flex-direction: column;
+        padding-left: 30px;
+        padding-right: 0;
+        justify-content: center;
+        margin-top: 20px;
+        height: auto;
+        align-items: flex-start;
+        width: auto;
+    }
+
+    .categoria-datos {
+        justify-content: flex-start;
+    }
+
+    .column-menu-datos-4 {
+        display: none;
+    }
+
+    .contenedor-video {
+        height: 300px;
+    }
+
+    .column-video-1 , .column-video-2 {
+        display: none;
+    }
+
+    .column-seccion-ingreso-1 {
+        display: none;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: auto;
+    }
+
+    .titulo-ultimo-ingreso {
+        width: 100%;
+        height: 100px;
+    }
+
+    .column-menu-btn-oportunidades-1 {
+        display: none;
+    }
+
+    .column-seccion-ingreso-4 {
+        display: none;
+    }
+
+    .column-novedades-1 {
+        display: none;
+    }
+
+    .column-menu-btn-novedades-1 {
+        display: none;
+    }
+
+    .contenedor-novedades {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contenedor-cards {
+        flex-direction: column;
+    }
+
+    .card-novedades {
+        width: auto;
+        justify-content: center;
+        align-items: center;
+        margin-right: 0;
+        margin-bottom: 30px;
+        border-bottom: 1px solid black;
+        padding-bottom: 10px;
+    }
+
+    .contenedor-formulario {
+        height: auto;
+    }
+
+    .column-formulario-1 {
+        display: none;
+    }
+
+    .linea-fija-blanca-left {
+        height: auto;
+    }
+
+    .linea-fija-blanca-center {
+        height: auto;
+    }
+
+    .column-formulario-3 {
+        height: auto;
+    }
+
+    .contenedor-footer {
+        height: auto;
+    }
+
+    .linea-fija-blanca-left-footer, .linea-fija-blanca-center-footer, .linea-fija-blanca-right-footer {
+        height: auto;
+    }
+
+    .contacto-left {
+        flex-direction: column-reverse;
+        height: 170px;
+        justify-content: initial;
+    }
+
+    .column-formulario-2 {
+        height: auto;
+    }
+
+    .column-footer-1 {
+        display: none;
+    }
+
+    .contenedor-form-contacto {
+        height: auto;
+    }
+
+    .contacto-right {
+        height: auto;
+    }
+
+    input {
+        width: 300px;
+    }
+
+    form {
+        top: 0;
+    }
+
+    .contenedor-submit {
+        top: 0;
+        flex-direction: column;
+    }
+
+    form h5 {
+        left: -95px;
+        margin-bottom: 50px;
+        align-items: flex-start;
+    }
+
+    .btn-submit {
+        margin-left: 0;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .column-footer-3 h4 {
+        margin-left: 5px;
+    }
+
+    .ver-mas-card {
+        left: 0;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: auto;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 290px;
+    }
+
+    .linea-fija-negra-left {
+        display: none;
+    }
+
+    .column-novedades-2 {
+        height: auto;
+        margin-top: 15px;
+    }
+
+    .linea-fija-negra-right {
+        height: auto;
+    }
+
+    .linea-fija-negra {
+        display: none;
+    }
+
+    .btn-bajar-secciones {
+        display: none;
+    }
+
+    .contenedor-barra-ingreso {
+        display: none;
+    }
+
+    .btn-bajar-secciones-3 {
+        display: none;
+    }
+
+    .btn-bajar-secciones-4 {
+        display: none;
+    }
+
+    .contenedor-menu-btn-novedades {
+        display: none;
+    }
+
+    .contenedor-menu-btn-oportunidades {
+        display: none;
+    }
+
+    .linea-fixed-center {
+        display: none;
+    }
+
+    .tipo-inmueble span {
+        padding: 10px 35px;
+    }
+
+    .medida, .ambientes, .baños, .cocheras {
+        justify-content: center;
+    }
+
+    .celular h4 a, .tel-fijo h4 a, .email h4 a {
+        margin-left: 20px;
+    }
+
+    .titulo-cafe h1 {
+        font-size: 40px;
+        padding: 40px 0 40px 40px;
+    }
+
+    .column-footer-2 h4 {
+        margin-left: 20px;
+    }
+
+    .column-footer-3 h4 {
+        margin-left: 20px;
+    }
+
+    .column-footer-3 {
+        margin-bottom: 10px;
+    }
+
+    .link-menu-hamburguesa a {
+       width: 50%;
+    }
+
+    .column-menu-datos-2 {
+        justify-content: center;
+    }
+
+    .btn-submit button img {
+        width: 75%;
+    }
+
+
+   
+}

@@ -1,0 +1,6 @@
+.linea-fixed-horizontal{
+    width: 100%;
+    height: 0.1px;
+    background-color: var(--colorSecondary);
+    position: relative;
+}

@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Mabry';
+  src: url(./fonts/Mabry-Pro-Medium.otf);
+  src: url(./fonts/Mabry-Pro-Bold.otf);
+  src: url(./fonts/Mabry-Pro-Light.otf);
+}
+
+
+ body {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Mabry' , sans-serif;
+}
+
+.alert-danger {
+  color:  var(--colorSecondary);
+  background-color: var(--btnPrimary);
+  border-color: var(--btnPrimary);
+}
+
+.swal2-styled.swal2-confirm {
+  background-color: var(--colorPrimary) !important;
+  color:  var(--colorSecondary) !important;
+  border: unset !important;
+}
+
+
+
+
+

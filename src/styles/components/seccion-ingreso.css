@@ -1,0 +1,82 @@
+.contenedor-barra-ingreso {
+    background: var(--colorPrimary);
+    width: 100%;
+    height: 75px;
+    margin: 0;
+}
+
+.column-barra-ingreso-2 {
+    display: flex;
+    height: 75px;
+    align-items: center;
+}
+
+.contenedor-seccion-ingreso {
+    background: var(--colorPrimary);
+    height: 570px;
+    width: 100%;
+    margin: 0;
+}
+
+.titulo-oportunidades {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    font-size: 30px;
+    color: var(--colorSecondary);
+    margin-bottom: 25px;
+}
+
+.titulo-oportunidades h2 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.column-seccion-ingreso-1 {
+height: 570px;
+display: flex;
+justify-content: center;
+align-items: flex-end;
+}
+
+.column-seccion-ingreso-2 {
+    height: 570px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0;
+}
+
+.column-seccion-ingreso-3 {
+    height: 645px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/assets/foto-ingreso.png);
+    -webkit-transition: 1.5s ease;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+
+.column-seccion-ingreso-3:hover {
+    background-size: 100%;
+   
+    
+} 
+
+.btn-bajar-secciones-2 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-left: 15px;
+    scroll-behavior: smooth;
+}
+
+.btn-logo {
+    width: 80%;
+}
+
+
+
+
+

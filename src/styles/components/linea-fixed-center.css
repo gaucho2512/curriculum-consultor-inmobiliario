@@ -1,0 +1,8 @@
+.linea-fixed-center {
+    width: 0.1px;
+    height: 75px;
+    background-color: var(--colorSecondary);
+    position: relative;
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,166 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     
+    .foto-perfil {
+       
+    }
+
+    .column-presentacion-2 h1 {
+        font-size: 38px;
+    }
+
+    .column-presentacion-2 p {
+        width: auto;
+    }
+
+    .categoria-datos h3 {
+        font-size: 40px;
+    }
+
+    .logo-whatsapp-fixed {
+        right: -5px;
+    }
+
+    .titulo-capa-video h1 {
+        font-size: 110px;
+        line-height: 110px;
+    }
+
+    .imagen-propiedad {
+        width: 579px;
+       
+    }
+
+    .tipo-inmueble {
+        width: auto;
+    }
+
+    .tipo-inmueble h3 {
+        font-size: 15px;
+        margin-right: 19px;
+    }
+
+    .tipo-inmueble span {
+        font-size: 15px;
+        padding: 14px 25px;
+    }
+
+    .card-novedades {
+        width: 220px;
+    }
+
+    .imagen-card img {
+        width: 220px;
+    }
+
+    .parrafo-card p {
+        width: 180px;
+    }
+
+    .ver-mas-card {
+        left: 0;
+    }
+
+    .enlace-novedades {
+        margin-left: 20px;
+    }
+
+    .titulo-cafe h1 {
+        font-size: 35px;
+        padding: 43px 0 86px 20px;
+    }
+
+    input {
+        width: 400px;
+    }
+
+    form h5 {
+        left: -145px;
+    }
+    
+    .contacto-left h4 {
+        top: 34px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 495px;
+    }
+
+    .column-presentacion-1 {
+        height: 495px;
+    }
+
+    .column-presentacion-2 {
+        height: 495px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 493px;
+        position: relative;
+        top: -38px;
+     }
+
+    .contenedor-video {
+        height: 495px;
+    }
+
+    .column-video-2 {
+        height: 495px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 569px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+    }
+
+    .contenedor-novedades {
+        height: 573px;
+    }
+
+    .column-novedades-1{
+    height: 573px;
+    }
+
+    .column-novedades-2 {
+        height: 573px;
+    }
+
+    .contenedor-formulario {
+        height: 573px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 573px;
+    }
+
+    .contacto-left {
+        height: 573px;
+    }
+
+    .contacto-right {
+        height: 573px;
+    }
+
+}
+

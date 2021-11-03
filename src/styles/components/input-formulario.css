@@ -1,0 +1,79 @@
+.contenedor-form-contacto {
+    height: 630px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    top: 219px;
+}
+
+input {
+    width: 500px;
+    background: var(--colorPrimary);
+    border: unset;
+    border-bottom: 1px solid #8D8FA1;
+    outline: none;
+    color: var(--colorSecondary);
+    height: 50px;
+}
+
+.input-mensaje {
+    height: 50px;
+}
+
+label {
+    color: #8D8FA1;
+    position: relative;
+    left: -213px;
+}
+
+form h5 {
+    color: #8D8FA1;
+    font-size: 12px;
+    position: relative;
+    left: -191px;
+    top: 15px;
+}
+
+.contenedor-submit {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   position: relative;
+   top: 50px;
+}
+
+.btn-submit {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-left: 15px;
+}
+
+.btn-submit button {
+    background-color: var(--colorPrimary);
+    border: unset;
+}
+
+.btn-submit button img {
+    width: 100%;
+    -webkit-transition: all 1s;
+    border-radius: 100px;
+}
+
+.btn-submit button img:hover {
+    width: 90%;
+    border-radius: 100px;
+    border: 1px solid var(--colorSecondary);
+
+}
+
+.error-captcha {
+    color: red;
+}
+

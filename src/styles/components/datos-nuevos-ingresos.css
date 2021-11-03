@@ -1,0 +1,128 @@
+.titulo-ultimo-ingreso {
+    height: 250px;
+}
+
+.titulo-ultimo-ingreso {
+    color: var(--colorSecondary);
+    font-size: 55px;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.tipo-inmueble {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border-top: 1px solid var(--colorSecondary);
+    border-bottom: 1px solid  var(--colorSecondary);
+    height: 50px;
+    
+}
+
+.tipo-inmueble h3 {
+    color: var(--colorSecondary);
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.tipo-inmueble span {
+    color: var(--colorSecondary);
+    font-size: 20px;
+    background-color: var(--btnPrimary);
+    padding: 11px 35px;
+}
+
+.linea-caja-inmueble {
+   height: 0.1px;
+   width: 300px;
+   color: var(--colorSecondary);
+}
+
+.ficha-propiedad {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    height: 250px;
+}
+
+.titulo-direccion {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.titulo-direccion img {
+    margin-right: 5px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.titulo-direccion h4 {
+    color: var(--colorSecondary);
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.datos-depto-fila-1 {
+    display: flex;
+    width: 100%;
+}
+
+.datos-depto-fila-2 {
+    display: flex;
+    width: 100%;
+}
+
+.medida , .ambientes , .baños , .cocheras {
+    width: 170px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.medida h4 , .ambientes h4 , .baños h4 , .cocheras h4 {
+    font-size: 12px;
+    color: #8D8FA1;
+    margin-left: 10px;
+}
+
+.medida img , .ambientes img , .baños img , .cocheras img {
+    margin-left: 20px;
+}
+
+.valor {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 50px;
+}
+
+.valor h4 {
+    color: var(--colorSecondary);
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.valor a {
+    color: var(--btnPrimary);
+    font-size: 11px;
+    margin-right: 20px;
+}
+
+.valor a:hover {
+    color: var(--colorSecondary);
+   
+}
+
+
+
+
+
+
+
+
+

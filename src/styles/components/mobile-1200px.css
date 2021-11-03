@@ -1,0 +1,979 @@
+@media (min-width: 1200px) { 
+   
+    .column-presentacion-2 h1 {
+        font-size: 50px;
+    }
+
+    .column-presentacion-2 p {
+        width: 235px;
+    }
+
+    .logo-whatsapp-fixed {
+        right: 3px;
+    }
+
+    .imagen-propiedad {
+        width: 700px;
+    }
+
+    .titulo-cafe h1 {
+        font-size: 40px;
+    }
+
+    .card-novedades {
+        width: 270px;
+    }
+
+    .parrafo-card p {
+        width: 250px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 495px;
+    }
+
+    .column-presentacion-1 {
+        height: 495px;
+    }
+
+    .column-presentacion-2 {
+        height: 495px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 492px;
+        position: relative;
+        top: -37px;
+     }
+
+    .contenedor-video {
+        height: 495px;
+    }
+
+    .column-video-2 {
+        height: 495px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 569px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+    }
+
+    .contenedor-novedades {
+        height: 573px;
+    }
+
+    .column-novedades-1{
+    height: 573px;
+    }
+
+    .column-novedades-2 {
+        height: 573px;
+    }
+
+    .contenedor-formulario {
+        height: 573px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 573px;
+    }
+
+    .contacto-left {
+        height: 573px;
+    }
+
+    .contacto-right {
+        height: 573px;
+    }
+}
+
+
+@media (min-width: 1300px)  {
+
+    .titulo-cafe h1 {
+        font-size: 40px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 495px;
+    }
+
+    .column-presentacion-1 {
+        height: 495px;
+    }
+
+    .column-presentacion-2 {
+        height: 495px;
+    }
+
+
+    .contenedor-video {
+        height: 495px;
+    }
+
+    .column-video-2 {
+        height: 495px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 495px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 569px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+    }
+
+    .contenedor-novedades {
+        height: 573px;
+    }
+
+    .column-novedades-1{
+    height: 573px;
+    }
+
+    .column-novedades-2 {
+        height: 573px;
+    }
+
+    .contenedor-formulario {
+        height: 573px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 573px;
+    }
+
+    .contacto-left {
+        height: 573px;
+    }
+
+    .contacto-right {
+        height: 573px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 491px;
+        position: relative;
+        top: -39px;
+     }
+
+     .card-novedades {
+         width: 280px;
+     }
+
+}
+
+
+
+@media (min-width: 1500px)  {
+
+    .titulo-cafe h1 {
+        font-size: 40px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 498px;
+    }
+
+    .column-presentacion-1 {
+        height: 498px;
+    }
+
+    .column-presentacion-2 {
+        height: 498px;
+    }
+
+
+    .contenedor-video {
+        height: 498px;
+    }
+
+    .column-video-2 {
+        height: 498px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 498px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 498px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 498px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 569px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 573px;
+    }
+
+    .contenedor-novedades {
+        height: 573px;
+    }
+
+    .column-novedades-1{
+    height: 573px;
+    }
+
+    .column-novedades-2 {
+        height: 573px;
+    }
+
+    .contenedor-formulario {
+        height: 573px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 573px;
+    }
+
+    .contacto-left {
+        height: 573px;
+    }
+
+    .contacto-right {
+        height: 573px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 494px;
+        position: relative;
+        top: -37px;
+     }
+
+    
+}
+
+
+@media (min-width:1536px) {
+    .titulo-cafe h1 {
+        font-size: 46px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 570px;
+    }
+
+    .column-presentacion-1 {
+        height: 570px;
+    }
+
+    .column-presentacion-2 {
+        height: 57px;
+    }
+
+
+    .contenedor-video {
+        height: 570px;
+    }
+
+    .column-video-2 {
+        height: 570px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 570px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 570px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 570px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 644px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 644px;
+    }
+
+    .contenedor-novedades {
+        height: 646px;
+    }
+
+    .column-novedades-1{
+    height: 646px;
+    }
+
+    .column-novedades-2 {
+        height: 646px;
+    }
+
+    .contenedor-formulario {
+        height: 646px;
+    }
+
+    .column-formulario-1 {
+        height: 646px;
+    }
+
+    .column-formulario-2 {
+        height: 646px;
+    }
+
+    .contacto-left {
+        height: 646px;
+    }
+
+    .contacto-right {
+        height: 646px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 570px;
+        position: relative;
+        top: 2px;
+    }
+
+    .card-novedades {
+        width: 350px;
+    }
+
+    .linea-fixed-left {
+        height: 2341px;
+    }
+
+    .linea-fixed-right {
+        height: 2341px;
+    }
+
+    .linea-fija-negra-left {
+        height: 857px;
+    }
+
+    .linea-fija-negra-right {
+        height: 857px;
+    }
+
+    .linea-fija-blanca-left {
+        height: 720px;
+    }
+
+    .linea-fija-blanca-center {
+        height: 720px;
+    }
+}
+
+
+@media (min-width: 1600px) {
+
+    .titulo-cafe h1 {
+        font-size: 46px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 540px;
+    }
+
+    .column-presentacion-1 {
+        height: 540px;
+    }
+
+    .column-presentacion-2 {
+        height: 540px;
+    }
+
+
+    .contenedor-video {
+        height: 540px;
+    }
+
+    .column-video-2 {
+        height: 540px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 540px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 540px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 540px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 616px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 616px;
+    }
+
+    .contenedor-novedades {
+        height: 616px;
+    }
+
+    .column-novedades-1{
+    height: 616px;
+    }
+
+    .column-novedades-2 {
+        height: 616px;
+    }
+
+    .contenedor-formulario {
+        height: 616px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 616px;
+    }
+
+    .contacto-left {
+        height: 616px;
+    }
+
+    .contacto-right {
+        height: 616px;
+    }
+
+    .foto-perfil {
+       width: 100%;
+       height: 535px;
+       position: relative;
+       top: -16px;
+    }
+
+    .card-novedades {
+        width: 350px;
+    }
+
+    
+}
+
+
+
+
+@media (min-width: 1700px)  {
+    .titulo-cafe h1 {
+        font-size: 50px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 580px;
+    }
+
+    .column-presentacion-1 {
+        height: 580px;
+    }
+
+    .column-presentacion-2 {
+        height: 580px;
+    }
+
+
+    .contenedor-video {
+        height: 580px;
+    }
+
+    .column-video-2 {
+        height: 580px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 580px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 580px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 580px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 655px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 655px;
+    }
+
+    .contenedor-novedades {
+        height: 656px;
+    }
+
+    .column-novedades-1{
+    height: 656px;
+    }
+
+    .column-novedades-2 {
+        height: 656px;
+    }
+
+    .contenedor-formulario {
+        height: 656px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 656px;
+    }
+
+    .contacto-left {
+        height: 656px;
+    }
+
+    .contacto-right {
+        height: 616px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 576px;
+        position: relative;
+        top: 4px;
+    }
+
+    .card-novedades {
+        width: 350px;
+    }
+}
+
+
+@media (min-width: 1800px){
+
+    .titulo-cafe h1 {
+        font-size: 50px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 623px;
+    }
+
+    .column-presentacion-1 {
+        height: 623px;
+    }
+
+    .column-presentacion-2 {
+        height: 623px;
+    }
+
+
+    .contenedor-video {
+        height: 623px;
+    }
+
+    .column-video-2 {
+        height: 623px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 623px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 623px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 623px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 698px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 698px;
+    }
+
+    .contenedor-novedades {
+        height: 699px;
+    }
+
+    .column-novedades-1{
+    height: 699px;
+    }
+
+    .column-novedades-2 {
+        height: 699px;
+    }
+
+    .contenedor-formulario {
+        height: 699px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 699px;
+    }
+
+    .contacto-left {
+        height: 699px;
+    }
+
+    .contacto-right {
+        height: 699px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 619px;
+        position: relative;
+        top: 25px;
+    }
+
+    .card-novedades {
+        width: 350px;
+    }
+
+    .linea-fija-negra-left {
+        height: 773px;
+    }
+
+    .linea-fija-negra-right {
+        height: 773px;
+    }
+
+    .linea-fixed-left {
+        height: 2170px;
+    }
+
+    .linea-fixed-right {
+        height: 2170px;
+    }
+
+    .linea-fija-blanca-left {
+        height: 700px;
+    }
+
+    .linea-fija-blanca-center {
+        height: 700px;
+    }
+    
+}
+
+
+@media (min-width: 1920px)  {
+
+    .titulo-cafe h1 {
+        font-size: 50px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 744px;
+    }
+
+    .column-presentacion-1 {
+        height: 744px;
+    }
+
+    .column-presentacion-2 {
+        height: 744px;
+    }
+
+
+    .contenedor-video {
+        height: 744px;
+    }
+
+    .column-video-2 {
+        height: 744px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 744px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 744px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 744px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 820px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 820px;
+    }
+
+    .contenedor-novedades {
+        height: 819px;
+    }
+
+    .column-novedades-1{
+    height: 819px;
+    }
+
+    .column-novedades-2 {
+        height: 819px;
+    }
+
+    .contenedor-formulario {
+        height: 819px;
+    }
+
+    .column-formulario-1 {
+        height: 573px;
+    }
+
+    .column-formulario-2 {
+        height: 819px;
+    }
+
+    .contacto-left {
+        height: 819px;
+    }
+
+    .contacto-right {
+        height: 819px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 744px;
+        position: relative;
+        top: 89px;
+
+    }
+
+    .card-novedades {
+        width: 350px;
+    }
+
+    .linea-fija-negra-left {
+        height: 895px;
+    }
+
+    .linea-fija-negra-right {
+        height: 895px;
+    }
+
+    .linea-fixed-left {
+        height: 2534px;
+    }
+
+    .linea-fixed-right {
+        height: 2534px;
+    }
+
+    .linea-fija-blanca-left {
+        height: 820px;
+    }
+
+    .linea-fija-blanca-center {
+        height: 820px;
+    }
+    
+}
+
+
+@media (min-width: 2560px)  {
+    .titulo-cafe h1 {
+        font-size: 50px;
+    }
+
+    /* medidas */
+
+    .contenedor-presentacion {
+        height: 1016px;
+    }
+
+    .column-presentacion-1 {
+        height: 1016px;
+    }
+
+    .column-presentacion-2 {
+        height: 1016px;
+    }
+
+
+    .contenedor-video {
+        height: 1016px;
+    }
+
+    .column-video-2 {
+        height: 1016px;
+    }
+
+    .contenedor-seccion-ingreso {
+        height: 1016px;
+    }
+
+    .column-seccion-ingreso-1 {
+        height: 1016px;
+    }
+
+    .column-seccion-ingreso-2 {
+        height: 1016px;
+    }
+
+    .column-seccion-ingreso-3 {
+        height: 1091px;
+    }
+
+    .column-seccion-ingreso-3:hover {
+        background-size: 120%;
+        height: 1091px;
+    }
+
+    .contenedor-novedades {
+        height: 1094px;
+    }
+
+    .column-novedades-1{
+    height: 1094px;
+    }
+
+    .column-novedades-2 {
+        height: 1094px;
+    }
+
+    .contenedor-formulario {
+        height: 1094px;
+    }
+
+    .column-formulario-1 {
+        height: 1094px;
+    }
+
+    .column-formulario-2 {
+        height: 1094px;
+    }
+
+    .contacto-left {
+        height: 1094px;
+    }
+
+    .contacto-right {
+        height: 1094px;
+    }
+
+    .foto-perfil {
+        width: 100%;
+        height: 1008px;
+        position: relative;
+        top: 221px;
+    
+
+    }
+
+    .card-novedades {
+        width: 500px;
+    }
+
+    .linea-fija-negra-left {
+        height: 1180px;
+    }
+
+    .linea-fija-negra-right {
+        height: 1180px;
+    }
+
+    .linea-fixed-left {
+        height: 3357px;
+    }
+
+    .linea-fixed-right {
+        height: 3357px;
+    }
+
+    .linea-fija-blanca-left {
+        height: 1100px;
+    }
+
+    .linea-fija-blanca-center {
+        height: 1100px;
+    }
+}
+
+
+
+
+
+
+

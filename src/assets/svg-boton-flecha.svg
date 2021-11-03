@@ -1,0 +1,8 @@
+<svg id="Boton_Flecha" data-name="Boton Flecha" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <circle id="Elipse_1" data-name="Elipse 1" cx="40" cy="40" r="40" fill="#d12131"/>
+  <g id="noun_Arrow_1434373" transform="translate(5.008 86.66) rotate(-90)">
+    <g id="Group" transform="translate(20.8 26.4)">
+      <path id="Path" d="M72.519,34.686l-50.336-.058,7.755-7.719-.546-.51L20.8,34.992l8.592,8.592.546-.51-7.755-7.719,50.336.058Z" transform="translate(-20.8 -26.4)" fill="#fff" stroke="#f5f2ee" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
